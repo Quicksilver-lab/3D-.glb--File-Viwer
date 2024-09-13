@@ -1,5 +1,16 @@
 # 3D File Viewer
 
+<p align="center">
+<a href="https://github.com/Quicksilver-lab/followers"><img title="Followers" src="https://img.shields.io/github/followers/Quicksilver-lab?color=red&style=flat-square"></a>
+<a href="https://github.com/Quicksilver-lab/3D-File-Viwer/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Quicksilver-lab/3D-File-Viwer?color=blue&style=flat-square"></a>
+<a href="https://github.com/Quicksilver-lab/3D-File-Viwer/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Quicksilver-lab/3D-File-Viwer?color=red&style=flat-square"></a>
+<a href="https://github.com/Quicksilver-lab/3D-File-Viwer/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Quicksilver-lab/3D-File-Viwer?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Quicksilver-lab/3D-File-Viwer"><img title="Open Source" src="https://img.shields.io/badge/Author-QuickSilver?v=103"></a>
+<a href="https://github.com/Quicksilver-lab/3D-File-Viwer/"><img title="Size" src="https://img.shields.io/github/repo-size/Quicksilver-lab/3D-File-Viwer?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Quicksilver-lab/3D-File-Viwer&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Quicksilver-lab/3D-File-Viwer/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+
 The **3D File Viewer** is a web-based application that allows users to preview 3D objects by uploading `.glb` files. This tool offers a smooth and interactive interface, enabling users to rotate, zoom, and capture screenshots or GIFs of their 3D models. It also supports various 3D file formats, making it versatile for different project needs.
 
 ## Features
